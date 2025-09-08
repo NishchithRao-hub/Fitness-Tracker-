@@ -1,8 +1,8 @@
-# Fitness-Tracker-Application
+# Overview
 
 The Fitness Tracker Application is a full-stack web application for tracking and visualizing personal fitness goals. The application was designed to allow users to monitor calories, set fitness targets, and manage their diets. As a "large-scale web services application," it aimed to demonstrate a robust microservice design and effective testing in a hackathon setting.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
