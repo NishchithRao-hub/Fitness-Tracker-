@@ -1,8 +1,6 @@
-# Fitness-Tracker-
-Sring Boot Application to track fitness habits and diets
-Database: Postgres 
-Validation and Testing included.
-React JS for front end design. 
+# Fitness-Tracker-Application
+
+The Fitness Tracker Application is a full-stack web application for tracking and visualizing personal fitness goals. The application was designed to allow users to monitor calories, set fitness targets, and manage their diets. As a "large-scale web services application," it aimed to demonstrate a robust microservice design and effective testing in a hackathon setting.
 
 # Getting Started with Create React App
 
@@ -75,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### Snapshot
+
+![image](https://github.com/user-attachments/assets/1b8ac818-a156-4467-815e-06724a7fe30e)
